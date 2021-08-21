@@ -346,3 +346,4 @@ class Game {
         this.syncExistingPiecesWithBoard();
     }
 }
+//linea 349
